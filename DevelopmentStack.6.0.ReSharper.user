@@ -1,0 +1,152 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="31EDCB7F-F9E1-4CE7-A1DF-6DDC47707A62/f:DependencyResolverInitializer.cs" caret="1423" fromTop="37" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/d:Views/d:Shared/f:_Layout.cshtml" caret="876" fromTop="24" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/d:Views/d:Shared/f:_LogOnPartial.cshtml" caret="228" fromTop="8" />
+      <File id="68D6502D-C5E4-4590-86CF-E4481E3CD17F/f:Conventions.cs" caret="1463" fromTop="27" />
+      <File id="ED21C138-79B6-4FEC-AAEC-3F0DA783A8FC/f:ActionConfirmation.cs" caret="586" fromTop="19" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/d:Binders/f:UserModelBinder.cs" caret="863" fromTop="28" />
+      <File id="68D6502D-C5E4-4590-86CF-E4481E3CD17F/f:NHibernateInitializer.cs" caret="394" fromTop="14" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/f:Global.asax.cs" caret="0" fromTop="0" />
+      <File id="C05316E7-3588-4FBB-8055-5B5E98E842AE/f:StackCudTasks.cs" caret="0" fromTop="0" />
+      <File id="68D6502D-C5E4-4590-86CF-E4481E3CD17F/d:Overrides/f:StackOverride.cs" caret="744" fromTop="22" />
+      <File id="5C4888C4-CAB1-45E5-9581-761778131C97/f:LazySessionContext.cs" caret="1101" fromTop="25" />
+      <File id="ED21C138-79B6-4FEC-AAEC-3F0DA783A8FC/d:Entities/f:Stack.cs" caret="235" fromTop="8" />
+      <File id="5C4888C4-CAB1-45E5-9581-761778131C97/f:Repository.cs" caret="1227" fromTop="21" />
+      <File id="6ABEA9CB-7E93-4EF2-89F0-34ED342CD1EB/f:Entity.cs" caret="4316" fromTop="17" />
+      <File id="ED21C138-79B6-4FEC-AAEC-3F0DA783A8FC/d:Validators/f:DataAnnotationsValidator.cs" caret="433" fromTop="9" />
+      <File id="31EDCB7F-F9E1-4CE7-A1DF-6DDC47707A62/f:StructureMapDependencyResolver.cs" caret="591" fromTop="21" />
+      <File id="5C4888C4-CAB1-45E5-9581-761778131C97/d:Web/f:SessionPerRequestModule.cs" caret="1774" fromTop="17" />
+      <File id="6ABEA9CB-7E93-4EF2-89F0-34ED342CD1EB/f:IEntityWithTypedId.cs" caret="425" fromTop="12" />
+      <File id="ED21C138-79B6-4FEC-AAEC-3F0DA783A8FC/d:Entities/f:Name.cs" caret="1013" fromTop="27" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/f:Web.config" caret="1000" fromTop="17" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/d:Views/d:Stack/f:Index.cshtml" caret="669" fromTop="26" />
+      <File id="ED21C138-79B6-4FEC-AAEC-3F0DA783A8FC/d:Entities/f:User.cs" caret="1555" fromTop="34" />
+      <File id="6ABEA9CB-7E93-4EF2-89F0-34ED342CD1EB/d:Validators/f:HasUniqueDomainSignatureAttribute.cs" caret="980" fromTop="19" />
+      <File id="C05316E7-3588-4FBB-8055-5B5E98E842AE/f:BaseEntityCudTasks.cs" caret="4197" fromTop="20" />
+      <File id="6ABEA9CB-7E93-4EF2-89F0-34ED342CD1EB/f:ComparableObject.cs" caret="4175" fromTop="13" />
+      <File id="6ABEA9CB-7E93-4EF2-89F0-34ED342CD1EB/d:DataInterfaces/f:IEntityDuplicateChecker.cs" caret="90" fromTop="4" />
+      <File id="5C4888C4-CAB1-45E5-9581-761778131C97/f:EntityDuplicateChecker.cs" caret="2825" fromTop="47" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/d:Views/d:Stack/f:Add.cshtml" caret="374" fromTop="16" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/d:Controllers/f:AccountController.cs" caret="0" fromTop="0" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/d:Controllers/f:StackController.cs" caret="1273" fromTop="18" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="C05316E7-3588-4FBB-8055-5B5E98E842AE/f:BaseEntityCudTasks.cs" caret="218" fromTop="6" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/d:Controllers/f:AccountController.cs" caret="4191" fromTop="21" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/d:Views/d:Shared/f:_LogOnPartial.cshtml" caret="77" fromTop="1" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/d:Views/d:Shared/f:_LogOnPartial.cshtml" caret="228" fromTop="8" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/d:Binders/f:UserModelBinder.cs" caret="144" fromTop="5" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/d:Binders/f:UserModelBinder.cs" caret="376" fromTop="13" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/d:Binders/f:UserModelBinder.cs" caret="513" fromTop="17" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/d:Binders/f:UserModelBinder.cs" caret="845" fromTop="26" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/f:Global.asax.cs" caret="1653" fromTop="39" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/f:Global.asax.cs" caret="231" fromTop="4" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/f:Global.asax.cs" caret="1553" fromTop="40" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/d:Controllers/f:StackController.cs" caret="1157" fromTop="31" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/f:Web.config" caret="2918" fromTop="34" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/d:Views/d:Stack/f:Add.cshtml" caret="786" fromTop="27" />
+      <File id="ED21C138-79B6-4FEC-AAEC-3F0DA783A8FC/d:Entities/f:Stack.cs" caret="1174" fromTop="35" />
+      <File id="ED21C138-79B6-4FEC-AAEC-3F0DA783A8FC/d:Entities/f:Stack.cs" caret="1012" fromTop="30" />
+      <File id="ED21C138-79B6-4FEC-AAEC-3F0DA783A8FC/d:Entities/f:Stack.cs" caret="1227" fromTop="40" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/d:Views/d:Stack/f:Add.cshtml" caret="719" fromTop="6" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/d:Views/d:Stack/f:Add.cshtml" caret="334" fromTop="5" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/d:Controllers/f:StackController.cs" caret="2076" fromTop="31" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/d:Views/d:Stack/f:Add.cshtml" caret="398" fromTop="13" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/f:Web.config" caret="1000" fromTop="17" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/d:Views/d:Stack/f:Index.cshtml" caret="669" fromTop="26" />
+      <File id="68D6502D-C5E4-4590-86CF-E4481E3CD17F/d:Overrides/f:StackOverride.cs" caret="744" fromTop="22" />
+      <File id="68D6502D-C5E4-4590-86CF-E4481E3CD17F/d:Overrides/f:StackOverride.cs" caret="406" fromTop="14" />
+      <File id="68D6502D-C5E4-4590-86CF-E4481E3CD17F/d:Overrides/f:StackOverride.cs" caret="744" fromTop="22" />
+      <File id="ED21C138-79B6-4FEC-AAEC-3F0DA783A8FC/d:Entities/f:Stack.cs" caret="858" fromTop="15" />
+      <File id="ED21C138-79B6-4FEC-AAEC-3F0DA783A8FC/d:Entities/f:Stack.cs" caret="248" fromTop="8" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/d:Controllers/f:StackController.cs" caret="1694" fromTop="34" />
+      <File id="22A4B743-AB7D-4373-A5F8-951147878C9B/d:Controllers/f:StackController.cs" caret="1554" fromTop="29" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="UpdateModel`1" priority="31" />
+      <Item value="if" priority="31" />
+      <Item value="TryUpdateModel`1" priority="31" />
+      <Item value="User" priority="29" />
+      <Item value="UserModelBinder`0" priority="94" />
+      <Item value="using" priority="30" />
+      <Item value="System" priority="30" />
+      <Item value="Security" priority="26" />
+      <Item value="Principal" priority="26" />
+      <Item value="HttpContext`0" priority="31" />
+      <Item value="bindingContext" priority="31" />
+      <Item value="var" priority="63" />
+      <Item value="new" priority="63" />
+      <Item value="public" priority="31" />
+      <Item value="IRepository" priority="31" />
+      <Item value="u" priority="31" />
+      <Item value="email" priority="31" />
+      <Item value="return" priority="31" />
+      <Item value="user" priority="31" />
+      <Item value="User`0" priority="30" />
+      <Item value="ViewBag" priority="63" />
+      <Item value="else" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Security.FormsAuthentication">
+      <Item value="Authenticate`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Principal.IIdentity">
+      <Item value="Name" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="RazorTransitionCompletionContext">
+      <Item value="User" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Principal.IPrincipal">
+      <Item value="Identity" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.HttpContext">
+      <Item value="Current" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpContext">
+      <Item value="User" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ModelBindingContext">
+      <Item value="ValueProvider" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SharpLite.Domain.DataInterfaces.IRepository`1">
+      <Item value="Get`0" priority="26" />
+      <Item value="GetAll`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="Where`1" priority="26" />
+      <Item value="FirstOrDefault`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevelopmentStack.Domain.Entities.User">
+      <Item value="Email" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="HtmlCodeCompletionContext">
+      <Item value="br" priority="18" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="Message" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\lib</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
