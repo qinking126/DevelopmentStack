@@ -23,7 +23,7 @@
         <legend>EditStackViewModel</legend>
 
         @Html.HiddenFor(m => m.Stack.Id)
-        @Html.HiddenFor(m => m.Stack.PostBy)
+        @Html.HiddenFor(m => m.Stack.PostBy.Id)
         @Html.HiddenFor(m => m.Stack.PostDate)
         Title : @Html.EditorFor(m => m.Stack.Title)
         <br />  <br />
