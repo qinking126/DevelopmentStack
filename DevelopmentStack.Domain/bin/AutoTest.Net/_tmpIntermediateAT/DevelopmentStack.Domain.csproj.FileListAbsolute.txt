@@ -1,0 +1,7 @@
+c:\Workspace\DevelopmentStack\DevelopmentStack.Domain\bin\AutoTest.Net\_tmpIntermediateAT\ResolveAssemblyReference.cache
+c:\Workspace\DevelopmentStack\DevelopmentStack.Domain\bin\AutoTest.Net\_tmpIntermediateAT\DevelopmentStack.Domain.dll
+c:\Workspace\DevelopmentStack\DevelopmentStack.Domain\bin\AutoTest.Net\_tmpIntermediateAT\DevelopmentStack.Domain.pdb
+c:\Workspace\DevelopmentStack\DevelopmentStack.Domain\bin\AutoTest.Net\DevelopmentStack.Domain.dll
+c:\Workspace\DevelopmentStack\DevelopmentStack.Domain\bin\AutoTest.Net\DevelopmentStack.Domain.pdb
+c:\Workspace\DevelopmentStack\DevelopmentStack.Domain\bin\AutoTest.Net\SharpLite.Domain.dll
+c:\Workspace\DevelopmentStack\DevelopmentStack.Domain\bin\AutoTest.Net\SharpLite.Domain.pdb
