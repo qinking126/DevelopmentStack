@@ -40,17 +40,8 @@ namespace DevelopmentStack.Web.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Add(Stack stack)
         {
-            var user = _userRepository.GetAll().Where(u => u.Email == HttpContext.User.Identity.Name).SingleOrDefault();
-
-            if (user == null)
-                throw new ArgumentNullException("User cannot be found, please re-login.");
-
-            stack.PostBy = user;
-
             if (ModelState.IsValid)
-            {
-                
-
+            {   
                 stack.PostDate = DateTime.Now;
                 
 
