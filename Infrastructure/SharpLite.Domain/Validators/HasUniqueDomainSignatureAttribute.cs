@@ -9,13 +9,17 @@ namespace SharpLite.Domain.Validators
     [AttributeUsage(AttributeTargets.Class, AllowMultiple = false, Inherited = true)]
     sealed public class HasUniqueDomainSignatureAttribute : ValidationAttribute
     {
-        protected override ValidationResult IsValid(object value, ValidationContext validationContext) {
-            IEntityWithTypedId<int> entityToValidate = validationContext.ObjectInstance as IEntityWithTypedId<int>;
+        protected override ValidationResult IsValid(object value, ValidationContext validationContext)
+        {
+            if (value == null)
+                return null;
+
+            IEntityWithTypedId<int> entityToValidate = value as IEntityWithTypedId<int>;
 
             if (entityToValidate == null)
                 throw new InvalidOperationException(
-                    "This validator must be used at the class level of an IEntityWithTypedId<int>. " + 
-                    "The type you provided was " + validationContext.ObjectInstance.GetType());
+                    "This validator must be used at the class level of an IEntityWithTypedId<int>. " +
+                    "The type you provided was " + value.GetType());
 
             IEntityDuplicateChecker duplicateChecker = DependencyResolver.Current.GetService<IEntityDuplicateChecker>();
 
